@@ -10,7 +10,7 @@ A curated resource and documentation repository providing access, installation g
 
 ## 📥 Installation & Access Guide
 
-1. Navigate to the official release page: **[https://omslin.in/teen-patti-master](https://omsi.in/teen-patti-master-download)**
+1. Navigate to the official release page: **[https://omslin.in/teen-patti-master](https://omsi.in/teen-patti-master-download)** or  https://tpmapp.co.in/
 2. Download the latest stable APK release package from the verified portal.
 3. Configure device permissions to allow installations from verified sources.
 4. Complete registration to access features and claim daily rewards.
@@ -18,4 +18,5 @@ A curated resource and documentation repository providing access, installation g
 *Disclaimer: This repository serves as an informational resource guide for application users and developers.*
 
 official release page: **[https://omslin.in/teen-patti-master](https://omsi.in/teen-patti-master-download)**
-official release page: **[https://omslin.in/teen-patti-master](https://omsi.in/teen-patti-master-download)**
+official release page: **[[https://omslin.in/teen-patti-master](https://tpmapp.co.in/)]**
+official release page: **[[https://hindiraftaar.in/teen-patti-master](https://hindiraftaar.in/teen-patti-master)]**
